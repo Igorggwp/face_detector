@@ -15,7 +15,7 @@ Este projeto é um **detector de emoção** desenvolvido em **Flutter**.
    ```
 2. Acesse o diretório do projeto:
    ```sh
-   cd face-detection
+   cd face_detection
    ```
 3. Instale as dependências:
    ```sh
