@@ -43,4 +43,6 @@ macos/
 web/
 windows/
 
-*.iml
+# Flutter
+.metadata
+pubspec.lock
